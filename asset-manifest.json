@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/matben001.github.io/static/css/main.83d4c1b0.chunk.css",
+    "main.js": "/matben001.github.io/static/js/main.24d29e3f.chunk.js",
+    "main.js.map": "/matben001.github.io/static/js/main.24d29e3f.chunk.js.map",
+    "runtime-main.js": "/matben001.github.io/static/js/runtime-main.561d1f36.js",
+    "runtime-main.js.map": "/matben001.github.io/static/js/runtime-main.561d1f36.js.map",
+    "static/css/2.8256f951.chunk.css": "/matben001.github.io/static/css/2.8256f951.chunk.css",
+    "static/js/2.df29b6eb.chunk.js": "/matben001.github.io/static/js/2.df29b6eb.chunk.js",
+    "static/js/2.df29b6eb.chunk.js.map": "/matben001.github.io/static/js/2.df29b6eb.chunk.js.map",
+    "static/js/3.bafdda5b.chunk.js": "/matben001.github.io/static/js/3.bafdda5b.chunk.js",
+    "static/js/3.bafdda5b.chunk.js.map": "/matben001.github.io/static/js/3.bafdda5b.chunk.js.map",
+    "index.html": "/matben001.github.io/index.html",
+    "static/css/2.8256f951.chunk.css.map": "/matben001.github.io/static/css/2.8256f951.chunk.css.map",
+    "static/css/main.83d4c1b0.chunk.css.map": "/matben001.github.io/static/css/main.83d4c1b0.chunk.css.map",
+    "static/js/2.df29b6eb.chunk.js.LICENSE.txt": "/matben001.github.io/static/js/2.df29b6eb.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/matben001.github.io/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.561d1f36.js",
+    "static/css/2.8256f951.chunk.css",
+    "static/js/2.df29b6eb.chunk.js",
+    "static/css/main.83d4c1b0.chunk.css",
+    "static/js/main.24d29e3f.chunk.js"
+  ]
+}

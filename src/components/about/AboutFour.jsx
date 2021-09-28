@@ -35,8 +35,8 @@ This triathlon journey has taken me to many place around the world and I can't w
                   </p>
                 </div>
                 <div className="shane_tm_button">
-                  <a href="img/resume/resume.jpg" download>
-                    Download CV
+                  <a href="https://www.linkedin.com/in/matben1">
+                    Learn More
                   </a>
                 </div>
               </div>

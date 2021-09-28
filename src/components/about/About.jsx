@@ -52,8 +52,8 @@ This triathlon journey has taken me to many place around the world and I can't w
                   data-aos="fade-up"
                   data-aos-duration="1200"
                 >
-                  <a href="img/resume/resume.jpg" download>
-                    Download CV
+                  <a href="https://www.linkedin.com/in/matben1">
+                    Learn More
                   </a>
                 </div>
               </div>

@@ -25,9 +25,15 @@ const Slider = () => {
             <div className="name_wrap">
               <h3>
                 <span>
-                  Mathieu
+                Mathieu <br /> Benoit
                   <br />
                 </span>{" "}
+                  <div className="job_wrap">
+              <span className="job">
+                
+                <span className="overlay_effect"></span>
+              </span>
+            </div>
                 <TextLoop>
                   <span className="loop-text">Swim</span>
                   <span className="loop-text">Bike</span>
@@ -40,20 +46,9 @@ const Slider = () => {
             </div>
             {/* End title */}
 
-            <div className="job_wrap">
-              <span className="job">
-                Benoit
-                <span className="overlay_effect"></span>
-              </span>
-            </div>*/
+          
             {/* End designation */}
-            <a
-              href="#portfolio"
-              className="white-fill-bg btn-outline btn-medium"
-            >
-              SEE PORTFOLIO
-              <span className="overlay_effect"></span>
-            </a>
+         
           </div>
           {/* End content */}
         </div>

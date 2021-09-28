@@ -17,7 +17,7 @@ const particleOptions: ParticleOptions = {
   },
   color: ({ x, y, image }) => "hsl(17, 100%, 56%)",
   radius: () => Math.random() * 1.5 + 0.5,
-  mass: () => 40,
+  mass: () => 100,
   friction: () => 0.15,
   initialPosition: ({ canvasDimensions }) => {
     return new Vector(canvasDimensions.width / 2, canvasDimensions.height / 2);
@@ -25,7 +25,7 @@ const particleOptions: ParticleOptions = {
 };
  
 const motionForce = (x: number, y: number): ParticleForce => {
-  return forces.disturbance(x, y, 5);
+  return forces.disturbance(x, y, 20);
 };
  
 export default function ParticleAnim() {
@@ -33,11 +33,11 @@ export default function ParticleAnim() {
  
   return (
     <ParticleImage
-      src={"/img/runner.png"}
+      src={"/img/tria_test.png"}
       width={Number(innerWidth)}
       height={Number(innerHeight)}
       scale={1}
-      entropy={80}
+      entropy={90}
       maxParticles={4000}
       particleOptions={particleOptions}
       mouseMoveForce={motionForce}

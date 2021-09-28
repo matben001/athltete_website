@@ -12,14 +12,17 @@ const CallToActionTwo = () => {
   function toggleModalOne() {
     setIsOpen(!isOpen);
   }
-
+////IMPORTANT MATHIEU
+////To bring back the contact us form 
+//<button className="white-fill-bg" onClick={toggleModalOne}>
+//comment this similar line and copy tha one back!!!!!
   return (
     <div className="shane_tm_section" id="contact">
       <div
         className="shane_tm_talk bg_image_props"
         style={{
           backgroundImage: `url(${
-            process.env.PUBLIC_URL + "img/callto-action/2.jpg"
+            process.env.PUBLIC_URL + "img/slider/3.jpg"
           })`,
         }}
       >
@@ -45,9 +48,12 @@ const CallToActionTwo = () => {
             data-aos-duration="1200"
             data-aos-delay="100"
           >
-            <button className="white-fill-bg" onClick={toggleModalOne}>
-              Make an enquiry
-            </button>
+            
+          
+              <a href="mailto:matben@bell.net">
+              
+              <button className="white-fill-bg" > Make an enquiry  </button>
+              </a>          
           </div>
         </div>
         {/* End talk_inner */}

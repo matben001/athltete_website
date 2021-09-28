@@ -24,7 +24,7 @@ const Header = () => {
         <div className={navbar ? "topbar_inner opened" : "topbar_inner"}>
           <div className="logo">
             <NavLink to="/">
-              <img src="/img/logo/new/dark.png" alt="partners brand" />
+              <img src="/img/intro/logo.png" alt="partners brand" />
             </NavLink>
           </div>
           {/* End logo */}

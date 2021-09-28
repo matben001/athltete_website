@@ -24,7 +24,7 @@ const Video = () => {
             channel="youtube"
             autoplay
             isOpen={isOpen}
-            videoId="ZOoVOfieAF8"
+            videoId=""
             onClose={() => setOpen(false)}
           />
 
@@ -38,8 +38,7 @@ const Video = () => {
             data-aos-duration="1200"
             data-aos-delay="50"
           >
-            I am delivering beautiful digital products for my clients
-          </h3>
+Coming soon          </h3>
 
           <div
             className="shane_tm_video_button"

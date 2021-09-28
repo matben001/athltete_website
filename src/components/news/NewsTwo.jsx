@@ -24,8 +24,8 @@ const NewsTwo = () => {
       <div className="shane_tm_news">
         <div className="container">
           <div className="shane_tm_title">
-            <span>News</span>
-            <h3>Latest News</h3>
+            <span>Journal</span>
+            <h3>Latest</h3>
           </div>
           {/* End shane_tm_title */}
           <div className="news_list">
@@ -47,10 +47,10 @@ const NewsTwo = () => {
 
                   <div className="details">
                     <h3 className="title" onClick={toggleModalOne}>
-                      Developers watch out for these burnout symptoms
+                    Comming Soon
                     </h3>
                     <p className="date">
-                      By <a href="#">Alex Watson</a> <span>20 May 2020</span>
+                      By <a href="#">Mathieu Benoit</a> <span>20 May 2020</span>
                     </p>
                   </div>
                   {/* End details */}
@@ -85,11 +85,10 @@ const NewsTwo = () => {
                           {/* End image */}
                           <div className="details">
                             <h3 className="title">
-                              How to be appreciated for your hard work as a
-                              developer
+                            Comming Soon
                             </h3>
                             <p className="date">
-                              By <a href="#">Brook Kennedy</a>{" "}
+                              By <a href="#">Mathieu Benoit</a>{" "}
                               <span>07 April 2020</span>
                             </p>
                           </div>
@@ -179,10 +178,10 @@ const NewsTwo = () => {
 
                   <div className="details">
                     <h3 className="title" onClick={toggleModalTwo}>
-                      How to be appreciated for your hard work as a developer
+                    Comming Soon
                     </h3>
                     <p className="date">
-                      By <a href="#">Brook Kennedy</a>{" "}
+                      By <a href="#">Mathieu</a>{" "}
                       <span>07 April 2020</span>
                     </p>
                   </div>
@@ -217,11 +216,10 @@ const NewsTwo = () => {
                           {/* End image */}
                           <div className="details">
                             <h3 className="title">
-                              How to be appreciated for your hard work as a
-                              developer
+                            Comming Soon
                             </h3>
                             <p className="date">
-                              By <a href="#">Brook Kennedy</a>{" "}
+                              By <a href="#">Mathieu Benoit</a>{" "}
                               <span>07 April 2020</span>
                             </p>
                           </div>
@@ -310,10 +308,10 @@ const NewsTwo = () => {
 
                   <div className="details">
                     <h3 className="title" onClick={toggleModalThree}>
-                      How designers and developers can collaborate better
+                    Comming Soon
                     </h3>
                     <p className="date">
-                      By <a href="#">Paola Atkins</a> <span>02 March 2020</span>
+                      By <a href="#">Mathieu Benoit</a> <span>02 March 2020</span>
                     </p>
                   </div>
                   {/* END DETAILS */}
@@ -351,8 +349,7 @@ const NewsTwo = () => {
                           {/* END IMAGE */}
                           <div className="details">
                             <h3 className="title">
-                              How to be appreciated for your hard work as a
-                              developer
+                            Comming Soon
                             </h3>
                             <p className="date">
                               By <a href="#">Brook Kennedy</a>{" "}

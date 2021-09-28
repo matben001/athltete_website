@@ -53,8 +53,8 @@ const HomeTwo = () => {
                 data-aos-duration="1200"
               >
                 <div className="shane_tm_title">
-                  <span>Testimonials</span>
-                  <h3>What clients say about my portfolio template</h3>
+                  <span>Contact Me</span>
+                  <h3>Follow me. Contact ME</h3>
                 </div>
               </div>
 
